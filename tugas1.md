@@ -50,10 +50,10 @@ gambar git add dll di ss terus masukin sini yaa
 
 # Gambar penggunaan fitur git
 ---
-![gambar foto fitur git](./image/gambarmetkom1.png)
+![gambar foto fitur git](./image/gambarmetkom1.png.png)
 
 ---
 
-![gambar foto fitur git](./image/gambarmetkom2.png)
+![gambar foto fitur git](./image/gambarmetkom2.png.png)
 
 ---
